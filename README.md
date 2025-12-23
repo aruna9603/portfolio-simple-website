@@ -1,4 +1,4 @@
-#portfolio-simple-website
+Portfolio-simple-website
 
 This is a simple and responsive personal portfolio website built using HTML and basic CSS.
 The project is designed to showcase my profile and provide a way for visitors to contact me easily.
