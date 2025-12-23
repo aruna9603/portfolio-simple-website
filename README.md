@@ -27,7 +27,7 @@ Fast and lightweight
 
 🔗 Live Project
 
-👉 Live Demo: [link]
+👉 Live Demo: https://aruna9603.github.io/portfolio-simple-website/index.html
 
 💻 GitHub Repository
 
